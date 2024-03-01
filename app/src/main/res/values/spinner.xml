@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Transfer By</string>
+    <string-array name="transfer_by">
+        <item>Account Number</item>
+        <item>Customer ID</item>
+        <item>Mobile Phone</item>
+    </string-array>
+</resources>
